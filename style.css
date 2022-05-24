@@ -43,7 +43,7 @@ h1 span {
 
 /*es un efecte que quan el cursor es posa sobre la imatge es fa una mica gran la img*/
 .img-gallery img:hover {
-    transform: scale(1.2);
+    transform: scale(1.1);
 }
 
 .ful-img {
@@ -67,10 +67,10 @@ h1 span {
     color: #fff;
     cursor: pointer;
 }
-/*esta en la linia 11 html, el img src=imagen1 nose perque*/
+
 .ful-img img {
     width: 90%;
-    max-width: 600px;
+    max-width: 450px;
 }
 
 
